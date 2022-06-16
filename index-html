@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello There</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img class="background-pic" src="img/pexels-eberhard-grossgasteiger-2088210(1).png" alt="">
+        <div class="center-box-1">
+        </div>
+        <h2 class="aaron-name">Aaron Crawford</h2>
+        <h3>Developer</h3>
+            <p>Welcome! Take a look around.
+                Please email aaron.crawford91@gmail.com until the site is complete!
+            </p>
+        <nav class="navbox">
+            <div>
+                <a href="/index.html">                
+                    <img class="home-icon" src="/img/3643769-building-home-house-main-menu-start_113416(1).png" alt="">
+                </a>
+                <a href="/projects.html">    
+                    <img class="projects-icon" src="/img/web_development_coding_code_browse_browser_icon-icons.com_59980.png" alt="">
+                </a>
+                <a href="/about.html">
+                    <img class="bio-icon" src="/img/3289576-individual-man-people-person_107097.png" alt="">
+                </a>
+                <a href="/skills.html">
+                    <img class="skills-icon" src="/img/4137171-building-construction-industry-wrench_114098.png" alt="">
+                </a>
+                <a href="/contact.html">
+                    <img class="message-icon" src="/img/mail_email_message_electronic_online_web_icon-icons.com_59986.png" alt="">
+                </a>  
+            </div>    
+        </nav>
+        <img class="white-logo" src="/img/signature-logo-white.png" alt="">
+        <a href="/contact.html">
+            <button class="reach-out-button">Reach Out</button>
+        </a>   
+</body>
+</html>
