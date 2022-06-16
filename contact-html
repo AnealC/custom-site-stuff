@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img class="background-pic" src="img/pexels-eberhard-grossgasteiger-2088210(1).png" alt="">
+        <div class="center-box">
+        </div>
+        <h1 class="contact-notice">*This is not yet functional, please email aaron.crawford91@gmail.com for the time being, check back for updaes!</h1>
+        <h1 class="contact-header">Contact Me</h1>
+        <div class="message-stuff">
+            <form>
+                <input class="name-input" type="text" name="name" placeholder="Name">
+            </form>
+            <form>
+                <input class="email-input" type="text" name="email" placeholder="Email">
+            </form>
+            <form>
+                <input class="phone-input" type="text" name="phone" placeholder="Phone">
+            </form>
+            <form>
+                <input class="message-input" type="text" name="message" placeholder="Message">
+            </form>
+            <button class="message-me-button">
+                Send Message
+            </button>
+        </div>
+        <nav class="navbox">
+            <div>
+                <a href="/index.html">                
+                    <img class="home-icon" src="/img/3643769-building-home-house-main-menu-start_113416(1).png" alt="">
+                </a>
+                <a href="/projects.html">    
+                    <img class="projects-icon" src="/img/web_development_coding_code_browse_browser_icon-icons.com_59980.png" alt="">
+                </a>
+                <a href="/about.html">
+                    <img class="bio-icon" src="/img/3289576-individual-man-people-person_107097.png" alt="">
+                </a>
+                <a href="/skills.html">
+                    <img class="skills-icon" src="/img/4137171-building-construction-industry-wrench_114098.png" alt="">
+                </a>
+                <a href="/contact.html">
+                    <img class="message-icon" src="/img/mail_email_message_electronic_online_web_icon-icons.com_59986.png" alt="">
+                </a>      
+        </nav>
+            </div>
+</body>
+</html>
